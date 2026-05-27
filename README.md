@@ -16,7 +16,8 @@
 
 <p align="center">
   <a href="https://www.sepiweb.org/Regional-Network-Committee" target="_blank"><img src="https://img.shields.io/badge/Membership-SEPI-2A5C43?style=flat-square" /></a>
-  <a href="https://nltu.edu.ua/navchalni-pidrozdily/nni-suspilnykh-nauk-administruvannia-ta-prava/kafedra-psykholohii-ta-sotsialno-humanitarnykh-dystsyplin" target="_blank"><img src="https://img.shields.io/badge/Membership-NLTU-2A5C43?style=flat-square" /></a>
+  <a href="https://ed-ua.com/specialist/olga-lazarenko/" target="_blank"><img src="https://img.shields.io/badge/Membership-ADP--ED-2A5C43?style=flat-square" /></a>
+  <a href="https://nltu.edu.ua/navchalni-pidrozdily/nni-suspilnykh-nauk-administruvannia-ta-prava/kafedra-psykholohii-ta-sotsialno-humanitarnykh-dystsyplin?view=article&id=1216:lazarenko-olha-volodymyrivna&catid=38" target="_blank"><img src="https://img.shields.io/badge/Membership-NLTU-2A5C43?style=flat-square" /></a>
   <a href="https://nv.ua/ukr/opinion_author/olga-lazarenko.html" target="_blank"><img src="https://img.shields.io/badge/Publication-NV.ua-8B0000?style=flat-square" /></a>
 </p>
 
