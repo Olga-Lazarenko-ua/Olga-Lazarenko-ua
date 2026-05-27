@@ -1,12 +1,11 @@
 <h1 align="center">Ольга Лазаренко</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Owner%20and%20CEO--Psy--center-800020?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trauma--Informed-Practice-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Psychotherapy-CBT-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lectureship--in--Psychology-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/EAP--Consultant-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Founder%20&%20Director-Center%20Vybir-738678?style=flat-square" />
+  <img src="https://img.shields.io/badge/Psychotherapy-Supervision-3D5A80?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-52796F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lectureship--in--Psychology-6D597A?style=flat-square" />
+  <img src="https://img.shields.io/badge/EAP--Consultant-2F4F4F?style=flat-square" />
 </p>
 
 <p align="center">
