@@ -1,148 +1,100 @@
-<h1 align="center">Olga Lazarenko, PhD</h1>
+<h1 align="center">Ольга Лазаренко</h1>
 
 <p align="center">
-  <b>Psychotherapist • Supervisor • Researcher • Lecturer</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Trauma--Informed-Practice-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Psychotherapy-supervision-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lectureship%20in%20Psychology-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/EAP--Consultant-1E3A8A?style=flat-square" />
   <img src="https://img.shields.io/badge/Owner%20and%20CEO--Psy--center-800020?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trauma--Informed-Practice-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Psychotherapy-CBT-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lectureship--in--Psychology-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/EAP--Consultant-1E3A8A?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="mailto:lazarenkolga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ТУТ_НІК_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/olha-lazarenko-73a9a3a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@Всепроментальнездоровя"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Trauma-informed psychotherapy, supervision, and psychological support in times of crisis."</i>
-</p>
+Психотерапевтка, супервізорка, засновниця та керівниця Мультимодального центру психологічного консультування та психотерапії «Вибір», старша викладачка кафедри психології та соціально-гуманітарних дисциплін ННІ Суспільних наук, адміністрування та права, дослідниця психології, психологічна консультантка для персоналу міжнародних організацій (на робочому місці), тренерка кризової психології та травмафокусованої психотерапії (КПТ), координаторка Української мережі SEPI, координаторка Інформаційного комітету ГО «Всеукраїнська асоціація лікарів та психологів «РХП: терапія та превенція».
+
+**Науковий ступінь/Вчене звання:** кандидат психологічних наук
 
 ---
 
-## About Me
+## Освіта
 
-Psychotherapist, supervisor, researcher, and lecturer in the field of psychology and mental health. 
-Founder and Director of the **Multimodal Center for Psychological Counseling and Psychotherapy “Vybir”**.
-
-### Core Specializations
-
-* **Trauma and PTSD:** Trauma-focused psychotherapy, crisis intervention, support during war and migration crises.
-* **Clinical Practice:** Eating disorders, anxiety, depressive disorders, and psychosomatic conditions.
-* **Professional Support:** Psychotherapy supervision and burnout prevention for mental health professionals.
+* **2000–2005:** Національний педагогічний університет імені М. П. Драгоманова, спеціаліст («вчитель, practical психолог в закладах освіти»)
+* **2010–2013:** Волинський національний університет імені Лесі Українки, аспірантура (очна денна форма, спеціальність – вікова та педагогічна психологія)
+* **2015:** Київський університет Б. Грінченка, захист кандидатської дисертації (спеціальність – психологія, вікова та педагогічна психологія)
+* **2025:** Харківський національний університет внутрішніх справ, атестація з присвоєнням звання спеціаліста за професійною кваліфікацією «Клінічний психолог» за спеціальністю «Клінічна психологія в сфері охорони здоров’я»
+* **2025–2026:** Південноукраїнський національний педагогічний університет імені К. Ушинського, магістратура («Клінічна психологія»)
 
 ---
 
-## Current Positions
+## Професійна діяльність
 
-* **Founder & Director** — Center “Vybir”
-* **Senior Lecturer** — Department of Psychology and Social Sciences
-* **Psychological Consultant** — International organizations
-* **Trainer** — Crisis Psychology & Trauma-Focused CBT
-* **Coordinator** — Ukrainian SEPI (Society for the Exploration of Psychotherapy Integration) Network
-* **Committee Coordinator** — NGO “Eating Disorders: Therapy & Prevention”
-
----
-
-## Academic Status & Research
-
-* **Degree:** PhD in Psychology *(Thesis defense in 2015)*
-
-### Research Interests
-`Psychotherapy Integration` • `Trauma-informed Care` • `Therapeutic Alliance` • `Neuro-informed Interventions` • `Emotional Regulation` • `Migration & Crisis Psychology`
+* **2004–2006:** практичний психолог в закладах освіти, м. Київ (ЗНЗ№94, №214)
+* **2006–2007:** старший науковий співробітник Інституту соціально-психологічного аналізу
+* **2015–2016:** в.о. доцента Волинського інституту підвищення кваліфікації педагогічних працівників
+* **2018–2021:** викладач клінічної психодіагностики, основ гештальт-терапії в ГО «Центр психологічної освіти та підвищення кваліфікації» (Інститут психосоціальних досліджень та розвитку особистості, Німеччина)
+* **2010–по сьогодні:** психологічне консультування, превенція, психодіагностика, психокорекція, психологічні тренінги, психотерапія за напрямками: розлади харчової поведінки, психотравма та її наслідки, тривожні та депресивні порушення, астенія, соматоформні розлади та психосоматози, розлади адаптації, стани дистресу та емоційного вигорання.
+* **2023–2025:** супервізор, тренер психологів напрямку Психічне здоров’я та психосоціальна підтримка в українському представництві міжнародної гуманітарної організації «Premiere Urgance Interantionale»
+* **2023:** викладання курсу «Психологічна робота з наслідками війни» у проекті Dipsozhelp спільно з Hochshule Rhein Main.
+* **2024–по сьогодні:** керівниця Мультимодального центру психологічного консультування та психотерапії «Вибір»
+* **2025:** доцент кафедри психології ПрАТ «МАУП», м. Київ
+* **2025–до сьогодні:** старший викладач кафедри психології та соціально-гуманітарних дисциплін ННІ Суспільних наук, адміністрування та права НЛТУ
 
 ---
 
-## Selected Publications & Profiles
+## Навчальні дисципліни
 
-### Academic Profiles
-* **ORCID:** [`0000-0002-6329-1314`](https://orcid.org/0000-0002-6329-1314)
-* **Google Scholar:** [View Citations & Publications](https://scholar.google.com/citations?user=Sm-ZQC8AAAAJ&hl=en)
-
-### Peer-Reviewed Articles (Scopus / Web of Science)
-* **Lazarenko, O. (2025).** Contribution to the *Journal of Psychotherapy Integration* from the Ukrainian Society for the Exploration of Psychotherapy Integration Regional Network. *Journal of Psychotherapy Integration, 35(3), 221–222.* [https://doi.org/10.1037/int0000373](https://doi.org/10.1037/int0000373)
-
-### Monograph
-* **Overcoming the Psychosocial Consequences of War and Forced Migration** *Studia Publishing, Innsbruck, 2024*
+* Психокорекція та психотерапія
+* Анатомія та фізіологія ЦНС
 
 ---
 
-## Education & Training
+## Сфера наукових зацікавлень
 
-| Years | Institution | Qualification / Degree |
-| :--- | :--- | :--- |
-| **2025–2026** | South Ukrainian National Pedagogical University | Master's in Clinical Psychology |
-| **2025** | Kharkiv National University of Internal Affairs | Clinical Psychology |
-| **2010–2013** | Lesya Ukrainka Volyn National University | PhD Studies (Defended 2015) |
-| **2000–2005** | National Pedagogical Dragomanov University | Practical Psychology |
+`ідентичність` • `травма-інформований підхід` • `психоемоційна сфера особистості` • `міграція та криза` • `терапевтичний альянс` • `спільні фактори психотерапії` • `нейро-інформовані втручання`
+
+---
+
+## Наукові доробки
+
+### Профілі
+* **ORCID ID:** [`0000-0002-6329-1314`](https://orcid.org/0000-0002-6329-1314)
+* **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=Sm-ZQC8AAAAJ&hl=en)
+
+### Публікації та монографії
+* **Дисертація:** Лазаренко О. В. «Психологічні особливості становлення економічної ідентичності в ранньому юнацькому віці» *(Дис. канд. психол. наук, Київський університет ім. Б. Грінченка, 2015)*
+* Є автором та співавтором понад 18 наукових статей у фахових виданнях, колективної монографії, учасницею понад 10 наукових конференцій різних рівнів.
+
+---
+
+## Стажування та підвищення кваліфікації
 
 <details>
-<summary><b>View Professional Certifications & Advanced Training</b></summary>
+<summary><b>Переглянути список курсів та сертифікацій</b></summary>
 
-### Trauma & PTSD
-* Crisis Psychology and War Trauma
-* PTSD Interventions
-* EMDR ASSYST Protocol
-* Trauma-focused CBT
-* Rewind Technique for PTSD
+* **2022:** наукове стажування в університеті Hochschule RheinMain (в м. Вісбаден, Німеччина), гостьовий науковець, 6 місяців, факультет соціальних і прикладних наук
+* **2026:** «Соматоформні та психоформні розлади в роботі клінічного психолога», 150 годин, 45 БПР
+* **2026:** курс «Травматичний досвід і ПТСР: інструментарій для психотерапевта», 20 годин (Prometheus)
+* **2025:** «Пропедевтика психічних розладів», ГО «Інститут психології», 150 годин, 150 БПР
+* **2025:** атестація супервізійних годин «Інститут Елізабет Кремер», 20 годин
+* **2025:** Brain spotting and Somatic experience Practitioner, 5 hrs (Udemy)
+* **2025:** Mindfulness based stress reduction (30 hrs), ГО «Українська Майндфулнес Асоціація».
+* **2025:** Особливості ведення пацієнтів, які пережили полон та/або постраждали від тортур, СНПК, БПР 7, 14 год, Академія НСЗУ
+* **2024:** атестація супервізійних годин «Інститут Елізабет Кремер», 16 годин
+* **2024:** «Психіатрична пропедевтика. Психіатрія для психологів», підвищення кваліфікації за напрямком «Психологія та психотерапія», 140 годин, ТзОВ «Інститут вищої психології та тілесних терапій»
+* **2024:** «Перша психологічна допомога для дітей», тренінг, 20 год, Humanitarian Leadership Academy
+* **2024:** фаховий курс «Робота з військовими та ветеранами» (травмафокусовані-КПТ-інтервенції в роботі з ПТСР», 40 год, Complex traumainstitute
+* **2023:** техніка Rewinde для роботи з ПТСР, вступ і сертифікація, 16 год, ComplexTrauma Institute
+* **2023:** Тренінг для тренерів з «Кризова психологія та робота з постраждалими від війни»: Діагностика постраждалих від війни; Професійна практика поведінкової та когнітивної психотерапії ПТСР; Професійна практика поведінкової та когнітивної психотерапії комплексного grief; Діагностичні критерії, пов’язані із травмами війни; Ключові компоненти кризової психології (72 години), Інститут підвищення кваліфікації університету Савойї Мон Блан (Франція), Асоціація європейських психологів-рятувальників (Франція), БФ «ПУІ» (Україна).
+* **2021–2023:** «Супервізія: теорія та практика», 100 годин, 2 роки Європейський інститут філософії психотерапії, програма акредитована Європейською конфедерацією анатлітичних психотерапій.
+* **2023:** Оцінюючи потреби вцілілих чоловіків в Україні, тренінг, 3 год.
+* **2023:** КПТ для дітей із тривогою та зниженим настроєм, 6 годин, Психоедукація щодо емоційного вигорання опікуна, 1,5 год., Сервіси для ментального здоров’я, лікарні Святого Патріка (онлайн)
+* **2023:** тренінг з протоколу ASSYST, короткий протокол EMDR, акредитовано Європейською асоціацією EMDR, 4 год, Чеський Інститут психотравматології та EMDR
 
-### Clinical Psychology
-* Psychiatric Propaedeutics
-* Somatoform Disorders
-* Clinical Psychopathology
-
-### Psychotherapy Modalities
-* Gestalt Therapy (1500 hrs)
-* ACT (Acceptance and Commitment Therapy)
-* Mindfulness-Based Stress Reduction (MBSR)
-* Brainspotting & Somatic Experience
-
-### Supervision
-* Supervision Theory & Practice
-* Certified Supervision Hours
 </details>
-
----
-
-## Professional Experience
-
-* **2010–Present** | **Private Practice** — Psychological Counseling & Psychotherapy
-* **2024–Present** | **Director** — Multimodal Center “Vybir”
-* **2025–Present** | **Senior Lecturer** — Higher Education Institutions
-* **2023–2025** | **Supervisor & MHPSS Trainer** — Premiere Urgence Internationale
-* **2018–2021** | **Lecturer** — Clinical Psychodiagnostics & Gestalt Therapy
-* **2006–2016** | **Academic Career** — Senior Research Associate, Acting Associate Professor
-* **2004–2006** | **Practical Psychologist** — Educational Institutions
-
----
-
-## Memberships
-
-* **Ukrainian SEPI Network** (Regional Coordinator)
-* **National Psychological Association (NPA)** (Member)
-* **Ukrainian Union of Psychotherapists (UUP)** (Member)
-* **Stress & Trauma Division** (Member)
-* **NGO “Eating Disorders: Therapy & Prevention”** (Information Committee Coordinator)
-
----
-
-## Collaboration
-
-Open to international projects, research initiatives, and professional networking:
-* Academic collaboration and Research initiatives
-* Psychotherapy supervision (SEPI/CBT)
-* Trauma-informed training and Lectures
-* International mental health and MHPSS projects
-
----
-
-<p align="center">
-  <i>Psychotherapy • Research • Education • Mental Health Support</i>
-</p>
