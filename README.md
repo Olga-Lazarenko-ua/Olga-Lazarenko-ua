@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founder%20&%20Director-Center%20Vybir-738678?style=flat-square" />
-  <img src="https://img.shields.io/badge/Psychotherapy-CBT-3D5A80?style=flat-square" />
+  <img src="https://img.shields.io/badge/Psychotherapy-supervision-3D5A80?style=flat-square" />
   <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-52796F?style=flat-square" />
   <img src="https://img.shields.io/badge/Lectureship--in--Psychology-6D597A?style=flat-square" />
   <img src="https://img.shields.io/badge/EAP--Consultant-2F4F4F?style=flat-square" />
