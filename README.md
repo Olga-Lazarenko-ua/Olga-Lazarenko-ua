@@ -1,7 +1,7 @@
-<h1 align="center">Ольга Лазаренко</h1>
+<h1 align="center">Ольга Лазаренко, PhD</h1>
 
 <p align="center">
-  Psychotherapist • Supervisor • Researcher • Lecturer
+  <b>Psychotherapist • Supervisor • Researcher • Lecturer</b>
 </p>
 
 <p align="center">
@@ -11,174 +11,133 @@
   <img src="https://img.shields.io/badge/Supervision-SEPI-7C3AED?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="mailto:lazarenkolga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ТУТ_НІК_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Всепроментальнездоровя"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+</p>
+
 ---
 
-> Trauma-informed psychotherapy, supervision, and psychological support in times of crisis.
+<p align="center">
+  <i>"Trauma-informed psychotherapy, supervision, and psychological support in times of crisis."</i>
+</p>
 
 ---
 
-## ✦ About
+## ✦ About Me
 
-Psychotherapist, supervisor, researcher, and lecturer in the field of psychology and mental health.
-
+Psychotherapist, supervisor, researcher, and lecturer in the field of psychology and mental health. 
 Founder and Director of the **Multimodal Center for Psychological Counseling and Psychotherapy “Vybir”**.
 
-Specialized in:
-
-- trauma-focused psychotherapy
-- PTSD and crisis intervention
-- eating disorders
-- anxiety and depressive disorders
-- burnout prevention
-- psychosomatic conditions
-- psychotherapy supervision
-- psychological support during war and migration crises
+### 🎯 Key Specializations:
+* 🧠 **Trauma & PTSD:** Trauma-focused psychotherapy, crisis intervention, support during war & migration crises.
+* 🩺 **Clinical Practice:** Eating disorders, anxiety, depressive disorders, and psychosomatic conditions.
+* 👥 **Professional Support:** Psychotherapy supervision and burnout prevention for mental health professionals.
 
 ---
 
 ## ✦ Current Positions
 
-- Founder & Director — **Center “Vybir”**
-- Senior Lecturer — Department of Psychology and Social Sciences
-- Psychological Consultant for international organizations
-- Trainer in Crisis Psychology & Trauma-Focused CBT
-- Coordinator of the Ukrainian SEPI Network
-- Information Committee Coordinator — NGO “Eating Disorders: Therapy & Prevention”
+* 🏢 **Founder & Director** — Center “Vybir”
+* 🎓 **Senior Lecturer** — Department of Psychology and Social Sciences
+* 🌍 **Psychological Consultant** — International organizations
+* 💼 **Trainer** — Crisis Psychology & Trauma-Focused CBT
+* 🧬 **Coordinator** — Ukrainian SEPI (Society for the Exploration of Psychotherapy Integration) Network
+* 📢 **Committee Coordinator** — NGO “Eating Disorders: Therapy & Prevention”
 
 ---
 
-## ✦ Academic Degree
+## ✦ Academic Status & Research
 
-**PhD in Psychology**
+* **Degree:** PhD in Psychology *(Thesis defense in 2015)*
 
----
-
-## ✦ Research Interests
-
-- Trauma-informed psychotherapy
-- Therapeutic alliance
-- Identity formation
-- Neuro-informed interventions
-- Emotional regulation
-- Migration & crisis psychology
-- PTSD and war-related trauma
-- Shared factors in psychotherapy
+### 🔍 Research Interests:
+* `Psychotherapy Integration` • `Trauma-informed Care` • `Therapeutic Alliance`
+* `Neuro-informed Interventions` • `Emotional Regulation` • `Migration & Crisis Psychology`
 
 ---
 
-## ✦ Education
+## ✦ Selected Publications & Profiles
 
-| Years | Institution | Qualification |
-|---|---|---|
-| 2000–2005 | National Pedagogical Dragomanov University | Practical Psychology |
-| 2010–2013 | Lesya Ukrainka Volyn National University | PhD Studies |
-| 2015 | Borys Grinchenko Kyiv University | PhD Defense |
-| 2025 | Kharkiv National University of Internal Affairs | Clinical Psychology |
-| 2025–2026 | South Ukrainian National Pedagogical University | Master's in Clinical Psychology |
+### 📚 Academic Profiles
+* 🎓 **ORCID:** [`0000-0002-6329-1314`](https://orcid.org/0000-0002-6329-1314)
+* 📊 **Google Scholar:** [View Citations & Publications](https://scholar.google.com/citations?user=Sm-ZQC8AAAAJ&hl=en)
+
+### 📄 Peer-Reviewed Articles (Scopus / WoS)
+* **Lazarenko, O. (2025).** Contribution to the *Journal of Psychotherapy Integration* from the Ukrainian Society for the Exploration of Psychotherapy Integration Regional Network. *Journal of Psychotherapy Integration, 35(3), 221–222.* 👉 [https://doi.org/10.1037/int0000373](https://doi.org/10.1037/int0000373)
+
+### 📘 Monograph
+* **Overcoming the Psychosocial Consequences of War and Forced Migration** *Studia Publishing, Innsbruck, 2024*
+
+---
+
+## ✦ Education & Training
+
+| Years | Institution | Qualification / Degree |
+| :--- | :--- | :--- |
+| **2025–2026** | South Ukrainian National Pedagogical University | Master's in Clinical Psychology |
+| **2025** | Kharkiv National University of Internal Affairs | Clinical Psychology |
+| **2010–2013** | Lesya Ukrainka Volyn National University | PhD Studies (Defended 2015) |
+| **2000–2005** | National Pedagogical Dragomanov University | Practical Psychology |
+
+<details>
+<summary><b>🔍 View Professional Certifications & Advanced Training</b></summary>
+
+### 🛡️ Trauma & PTSD
+* Crisis Psychology and War Trauma
+* PTSD Interventions
+* EMDR ASSYST Protocol
+* Trauma-focused CBT
+* Rewind Technique for PTSD
+
+### 🏥 Clinical Psychology
+* Psychiatric Propaedeutics
+* Somatoform Disorders
+* Clinical Psychopathology
+
+### 🧘 Psychotherapy Modalities
+* Gestalt Therapy (1500 hrs)
+* ACT (Acceptance and Commitment Therapy)
+* Mindfulness-Based Stress Reduction (MBSR)
+* Brainspotting & Somatic Experience
+
+### 👥 Supervision
+* Supervision Theory & Practice
+* Certified Supervision Hours
+</details>
 
 ---
 
 ## ✦ Professional Experience
 
-| Years | Position |
-|---|---|
-| 2004–2006 | Practical Psychologist in Educational Institutions |
-| 2006–2007 | Senior Research Associate |
-| 2015–2016 | Acting Associate Professor |
-| 2018–2021 | Lecturer in Clinical Psychodiagnostics & Gestalt Therapy |
-| 2010–Present | Psychological Counseling & Psychotherapy Practice |
-| 2023–2025 | Supervisor & MHPSS Trainer — Premiere Urgence Internationale |
-| 2024–Present | Director of Center “Vybir” |
-| 2025–Present | Senior Lecturer in Psychology |
-
----
-
-## ✦ Teaching Areas
-
-- Psychotherapy & Psychocorrection
-- Anatomy and Physiology of the CNS
-- Trauma-focused psychological interventions
-- Clinical psychodiagnostics
-
----
-
-## ✦ Selected Publications
-
-### Scopus / Web of Science
-
-**Lazarenko, O. (2025)**  
-Contribution to the *Journal of Psychotherapy Integration* from the Ukrainian Society for the Exploration of Psychotherapy Integration Regional Network.  
-*Journal of Psychotherapy Integration, 35(3), 221–222.*  
-https://doi.org/10.1037/int0000373
-
----
-
-## ✦ Monograph
-
-**Overcoming the Psychosocial Consequences of War and Forced Migration**  
-Studia Publishing, Innsbruck, 2024
-
----
-
-## ✦ Certifications & Advanced Training
-
-<details>
-<summary>View professional development</summary>
-
-### Trauma & PTSD
-- Crisis Psychology and War Trauma
-- PTSD Interventions
-- EMDR ASSYST Protocol
-- Trauma-focused CBT
-- Rewind Technique for PTSD
-
-### Clinical Psychology
-- Psychiatric Propaedeutics
-- Somatoform Disorders
-- Clinical Psychopathology
-
-### Psychotherapy Modalities
-- Gestalt Therapy (1500 hrs)
-- ACT Therapy
-- Mindfulness-Based Stress Reduction
-- Brainspotting & Somatic Experience
-
-### Supervision
-- Supervision Theory & Practice
-- Certified Supervision Hours
-
-</details>
+* ⏳ **2010–Present** | **Private Practice** — Psychological Counseling & Psychotherapy
+* 🏢 **2024–Present** | **Director** — Multimodal Center “Vybir”
+* 🎓 **2025–Present** | **Senior Lecturer** — Higher Education Institutions
+* 🤝 **2023–2025** | **Supervisor & MHPSS Trainer** — Premiere Urgence Internationale
+* 🏫 **2018–2021** | **Lecturer** — Clinical Psychodiagnostics & Gestalt Therapy
+* 🔬 **2006–2016** | **Academic Career** — Senior Research Associate, Acting Associate Professor
+* 🎒 **2004–2006** | **Practical Psychologist** — Educational Institutions
 
 ---
 
 ## ✦ Memberships
 
-- Ukrainian SEPI Network Coordinator
-- Member — National Psychological Association
-- Member — Ukrainian Union of Psychotherapists
-- Member — Stress & Trauma Division
-- Information Committee Coordinator — NGO “Eating Disorders: Therapy & Prevention”
-
----
-
-## ✦ Academic Profiles
-
-- 🎓 ORCID: `0000-0002-6329-1314`
-- 📚 Google Scholar:  
-  https://scholar.google.com/citations?user=Sm-ZQC8AAAAJ&hl=en
+* 🌐 **Ukrainian SEPI Network** (Regional Coordinator)
+* 🇺🇦 **National Psychological Association (NPA)** (Member)
+* 🤝 **Ukrainian Union of Psychotherapists (UUP)** (Member)
+* 🧠 **Stress & Trauma Division** (Member)
+* 📢 **NGO “Eating Disorders: Therapy & Prevention”** (Information Committee Coordinator)
 
 ---
 
 ## ✦ Collaboration
 
-Open for:
-
-- academic collaboration
-- psychotherapy supervision
-- trauma-informed training
-- conference participation
-- international mental health projects
-- research initiatives
+I am open to international projects, research initiatives, and professional networking. Let's connect for:
+* 📑 Academic collaboration & Research initiatives
+* 👥 Psychotherapy supervision (SEPI/CBT)
+* 🎙️ Trauma-informed training & Lectures
+* 🌍 International mental health & MHPSS projects
 
 ---
 
