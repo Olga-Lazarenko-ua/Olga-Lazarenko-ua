@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Trauma--Informed-Practice-4B5563?style=flat-square" />
   <img src="https://img.shields.io/badge/Psychotherapy-supervision-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supervision-SEPI-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lectureship-in-Psychology-7C3AED?style=flat-square" />
 </p>
 
 <p align="center">
