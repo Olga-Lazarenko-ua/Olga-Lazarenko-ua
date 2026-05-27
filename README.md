@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Olga-Lazarenko-ua/Olga-Lazarenko-ua/main/banner-sage.png" alt="Olga Lazarenko - Mental Health Professional Banner" width="100%" />
+  <img src="2026-05-27_144645.png" alt="Ольга Лазаренко - Психотерапевтка, супервізорка, дослідниця" width="100%" />
 </p>
 
 <h1 align="center">Ольга Лазаренко</h1>
