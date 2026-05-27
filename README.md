@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Psychotherapy-supervision-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-059669?style=flat-square" />
   <img src="https://img.shields.io/badge/Lectureship%20in%20Psychology-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/EAP--Consultant-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Owner%20and%20CEO--Psy--center-800020?style=flat-square" />
 </p>
 
 <p align="center">
