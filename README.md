@@ -1,11 +1,11 @@
 <h1 align="center">Ольга Лазаренко</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder%20&%20Director-Center%20Vybir-738678?style=flat-square" />
-  <img src="https://img.shields.io/badge/Psychotherapy-Supervision-3D5A80?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clinical%20Psychology-Research-52796F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lectureship--in--Psychology-6D597A?style=flat-square" />
-  <img src="https://img.shields.io/badge/EAP--Consultant-2F4F4F?style=flat-square" />
+  <a href="https://myvybir.com.ua" target="_blank"><img src="https://img.shields.io/badge/Founder%20&%20Director-Center%20Vybir-738678?style=flat-square" /></a>
+  <a href="https://myvybir.com.ua/specialists/olha-lazarenko/" target="_blank"><img src="https://img.shields.io/badge/Psychotherapy-Supervision-3D5A80?style=flat-square" /></a>
+  <a href="https://scholar.google.com/citations?user=Sm-ZQC8AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Clinical%20Psychology-Research-52796F?style=flat-square" /></a>
+  <a href="https://myvybir.com.ua/product/conceptualizatsiya_vypadku_v_integratyvnomu_pidhodi/" target="_blank"><img src="https://img.shields.io/badge/Lectureship--in--Psychology-6D597A?style=flat-square" /></a>
+  <a href="https://www.konterragroup.net/konterra-resilience/expertise/" target="_blank"><img src="https://img.shields.io/badge/EAP--Consultant-2F4F4F?style=flat-square" /></a>
 </p>
 
 <p align="center">
